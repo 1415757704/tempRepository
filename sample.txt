@@ -1,1 +1,1 @@
-This is the first to use git
+This is the second to use git
