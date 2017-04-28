@@ -1,7 +1,6 @@
 Git is a version control system.
 Git is a free soft
 
-
-cd 
-git add index.txt
-git commit -m "this is first to commit by code!"
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
